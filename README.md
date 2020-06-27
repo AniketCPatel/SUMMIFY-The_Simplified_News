@@ -4,10 +4,6 @@
 ### Installing
 
 Clone the repository and activate the virtual environment.
-In cmd navigate to the project folder and write: 
-```
-venv\Scripts\activate
-```
 
 Next install the libraries and dependencies :
 
@@ -19,3 +15,8 @@ Run the website :
 ```
 python app.py
 ```
+
+
+<h3> CONTRIBUTORS </h3>
+<a href="https://github.com/upasana-tech/">Upasana Kalra</a>
+<a href="https://github.com/AniketCPatel/">Aniket Patel</a>
