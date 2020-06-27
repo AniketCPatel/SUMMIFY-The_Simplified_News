@@ -18,5 +18,5 @@ python app.py
 
 
 <h3> CONTRIBUTORS </h3>
-<a href="https://github.com/upasana-tech/">Upasana Kalra</a>
-<a href="https://github.com/AniketCPatel/">Aniket Patel</a>
+<ul><li><a href="https://github.com/upasana-tech/">Upasana Kalra</a></li>
+<li><a href="https://github.com/AniketCPatel/">Aniket Patel</a></li>
