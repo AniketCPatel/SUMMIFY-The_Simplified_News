@@ -16,6 +16,10 @@ Run the website :
 python app.py
 ```
 
+To open website, open the address given below:
+```
+127.0.0.1:5000
+```
 
 <h3> CONTRIBUTORS </h3>
 <ul><li><a href="https://github.com/upasana-tech/">Upasana Kalra</a></li>
